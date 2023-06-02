@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 87e90431d8986a344a44261976c92ee0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - glassMat: {fileID: 2100000, guid: 29c9886ad3182d445ae187afaa0d3178, type: 2}
+  - woodMat: {fileID: 2100000, guid: 68813d000054dfa4e87791fe5f1606cc, type: 2}
+  - stoneMat: {fileID: 2100000, guid: e3c2c2e7db8b2f24a91c5ab1669bc653, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
