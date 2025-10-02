@@ -15,7 +15,7 @@ https://assetstore.unity.com/packages/vfx/shaders/simple-toon-185038
 Unity Store package: "Real Stars Skybox" was removed as over 100 mb.
 https://assetstore.unity.com/packages/3d/environments/sci-fi/real-stars-skybox-lite-116333
 
-Breakable Windows (UNity Asset Store Package)
+Breakable Windows (Unity Asset Store Package)
 https://assetstore.unity.com/packages/tools/particles-effects/breakable-windows-110383
 Built out and tested the package, but was not performant enough to use.
 
